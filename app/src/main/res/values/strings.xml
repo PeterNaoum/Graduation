@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Smart Life</string>
+    <string name="action_settings">Settings</string>
+    <string name="sync_account_type">com.example.graddraft</string>
+    <string name="content_authority">com.example.peter.graddraft</string>
+    <string name="plug">Plug</string>
+    <string name="smoke_sensor">Smoke Sensor</string>
+    <string name="gas_sensor">Gas Sensor</string>
+    <string name="intrusion_detector">Intrusion Detector</string>
+    <string name="solenoid_lock">Solenoid Lock</string>
+    <string name="door">Door</string>
+    <string name="temperature">Temperature Sensor</string>
+
+</resources>
